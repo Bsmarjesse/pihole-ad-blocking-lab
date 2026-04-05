@@ -57,7 +57,7 @@ Validated DNS traffic using real-time logging:
 
 Managed the Raspberry Pi remotely using SSH:
 
-![SSH Access](images/ssh_access2.png)
+![SSH Access](images/ssh-access2.png)
 
 ---
 
